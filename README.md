@@ -26,11 +26,11 @@ The script train_16.py and train_32.py contains all the necessary steps for trai
 
 2) Run the below code to train J-Net on the Decathlon Prostate dataset with image sizes of 16 and 32.
     ```bash
-    python3 train_16.py     
+    python train_16.py     
     ```
     
-        ```bash
-    python3 train_32.py 
+   ```bash
+    python train_32.py 
     ```
 
     
@@ -41,5 +41,5 @@ Qualitative segmentation results DECATHLON
 
 ## Acknowledgements
 
-We gratefully thank the authors of [here](https://github.com/FrexG/ELU-Net-pytorch), from which some parts of our code are inspired.
+We gratefully thank the authors of [https://github.com/FrexG/ELU-Net-pytorc](https://github.com/FrexG/ELU-Net-pytorch), from which some parts of our code are inspired.
 
