@@ -1,4 +1,4 @@
-# [J-Net: A Low-Resolution Lightweight Neural Network for Semantic Segmentation in the  Medical field for Embedded Deployment - ISVC 2024]
+# J-Net: A Low-Resolution Lightweight Neural Network for Semantic Segmentation in the  Medical field for Embedded Deployment - ISVC 2024
 
 When deploying neural networks in real-life situations, the size and computational effort are often the limiting factors. 
 This is especially true in environments where big, expensive hardware is not affordable, like in embedded medical devices, where budgets are often tight. 
